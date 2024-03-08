@@ -1,38 +1,38 @@
 # MuMo-CoCo
 (**Mu**lti-**Mo**dal **CO**2 transport **Co**st model) A life cycle analysis and cost model for transporting CO2 by rail or truck
 
-**Getting Started**
+## Getting Started
 
 MuMo-CoCo is an macro-enabled Microsoft Excel-based life cycle assessment and cost model for the transport of CO2 via rail or truck in the United States. To run MuMo-CoCo, download the file to your computer and ensure Macros are enabled in Microsoft Excel.
 
-**How to**
+## How to
 
 User inputs are selected from drop-down boxes in the _'User Interface'_ sheet. Results are automatically calculated and populated in the Results sections and graph on the same _'User Interface'_ sheet.
 Input selections can be altered beyond the standard set points by manually changing the values in the _'Options'_ sheet and/or changing the 'Data Validation' range of each variable in the _'User Interface'_ sheet. 
 The _'Calculations'_ sheet contains all the design equations and data sources used for calculations, except for financing. Financing calculations are performed in the _'FINEX'_ sheet.
 Macros exist in the file for the calculation of boil-off gas rates and financial analyses. Macros also update available user selections based on system design choices.
 
-**Authors**
+## Authors
 
 MuMo-CoCo was created by Corey Myers, PhD; myers79@llnl.gov.
 
 Many thanks to Gregory Markham, Wenqin Li, and Menyao Yuan for their contributions to the development of MuMo-CoCo.
 
-**Citing MuMo-CoCo**
+## Citing MuMo-CoCo
 
 If you are referencing MuMo-CoCo in a publication please cite as:
 
 Myers, Corey and Li, Wenqin and Markham, Gregory, The Cost of CO2 Transport by Truck and Rail in the United States. Available at SSRN: https://ssrn.com/abstract=4724930 or http://dx.doi.org/10.2139/ssrn.4724930
 
-**Contributing**
+## Contributing
 
 Please read CONTRIBUTING.md for details on the process for submitting change requests, reporting bugs, and requesting additional functionality.
 
-**Release**
+## Release
 
 LLNL-CODE-860116
 
-**Notice**
+## Notice
 
 This work was produced under the auspices of the U.S. Department of Energy by
 Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
