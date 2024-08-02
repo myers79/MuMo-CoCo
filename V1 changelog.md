@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to the MuMoCoCo code will be documented in this file.
   
-## ['Calculations' sheet] - 2024-08-02
+## 'Calculations' sheet - 2024-08-02
   
 ### Added
 - Calculated Transit Time added; originally was located in 'Options' sheet cells AC3:4
@@ -20,7 +20,7 @@ All notable changes to the MuMoCoCo code will be documented in this file.
 
 ### Changed
 
-## ['User Interface' sheet] - 2024-08-02
+## 'User Interface' sheet - 2024-08-02
 
 ### Added
 - Added options for user to set storage time or use calculated time
@@ -35,7 +35,7 @@ All notable changes to the MuMoCoCo code will be documented in this file.
 -	D11, changed from “Results details” to “Cost details” 
 -	Cell J23 updated to indicate whether rail transport is as a mixed use or unit train
 
-## ['User Interface' sheet] - 2024-08-02
+## 'Options' sheet - 2024-08-02
 
 ### Added
 
